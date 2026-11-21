@@ -1,0 +1,51 @@
+Samoa'nın başkenti nedir?
+Apia
+
+Veri tabanında toplam kaç kıta vardır?
+6
+
+Alanı temsil eden sütunun adı nedir?
+area
+
+Ülkeler tablosu ile onlar hakkındaki bilgileri birbirine bağlayan anahtar değer nedir?
+country_id
+
+Alanı en küçük olan ülkeyi bulun.
+Vatikan
+
+---
+
+Hangi ülke en yüksek nüfus yoğunluğuna sahiptir?
+Monako
+
+Başkenti Basseterre olan ülke hangi kıtada yer alır?
+Kuzey Amerika
+
+Afrika'da kaç ülke vardır?
+53
+
+Nüfusu 1.500.001 olan ülkenin başkenti nedir?
+Manama
+
+Nüfusu 10 milyondan fazla ve alanı 8 milyon kilometrekareden az olan ülkeler arasında en yoğun nüfuslu ülke hangisidir?
+Bangladeş
+
+Başkenti B harfi ile başlayan kaç ülke vardır?
+24
+
+---
+
+Hangi kıta en düşük ortalama nüfus yoğunluğuna sahiptir?
+Güney Amerika
+
+Avustralya ve Okyanusya'daki tüm ülkelerin toplam alanı nedir?
+8490640.4
+
+Bilgi tablosunda, Dünya nüfusuna oranla nüfus yüzdesi sıfır olan birkaç ülke var. Bu ülkelerden başkent ismi en uzun olan ülkeyi belirleyin ve bu ülkenin nüfusunu cevap olarak girin.
+81588
+
+İsmi 'ya' ile biten, Okyanusya'da bulunan ve en küçük nüfusa sahip olan ülke hangisidir?
+Mikronezya
+
+Nüfus yoğunluğuna göre (artan sırada) sıralanmış Avrupa'daki ilk 10 ülkenin ortalama nüfusunu belirleyin. Cevap olarak tam sayıyı girin.
+17045185
